@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {
+    height: 200px;
+    background-image: url(/img/VW.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    /* color: aliceblue; */
+    padding-top: 400px;
+}
+
+.top {
+    color: aliceblue;
+}
